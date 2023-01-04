@@ -1,0 +1,39 @@
+{
+  "shoes": [
+    {
+      "brand": "Nike",
+      "model": "Dunks",
+      "size": "40",
+      "price": "2000",
+      "id": 1
+    },
+    {
+      "brand": "Adidas",
+      "model": "Ultra Boost",
+      "size": "43",
+      "price": "1300",
+      "id": 2
+    },
+    {
+      "brand": "Nike",
+      "model": "Air Force",
+      "size": "45",
+      "price": "1600",
+      "id": 3
+    },
+    {
+      "brand": "Adidas",
+      "model": "Yeezy",
+      "size": "43",
+      "price": "1500",
+      "id": 4
+    },
+    {
+      "brand": "Puma",
+      "model": "Slipstream",
+      "size": "41",
+      "price": "600",
+      "id": 5
+    }
+  ]
+}

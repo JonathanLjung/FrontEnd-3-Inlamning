@@ -1,0 +1,85 @@
+* {
+  background-color: #343434;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #7a0606;
+}
+.navbar h1 {
+  color: white;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  text-decoration: none;
+}
+
+.shoe-preview {
+  max-width: 250px;
+  padding: 10px;
+  margin: 40px auto;
+  border: solid 0.5px #989898;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  margin-top: 40px;
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #a20909;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 50px;
+  gap: 25px;
+  font-size: 25px;
+}
+
+#brand,
+#model,
+#size,
+#price {
+  max-width: 200px;
+  max-height: 50px;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+
+.loading {
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 350px;
+}
+
+/*# sourceMappingURL=style.css.map */
